@@ -1,0 +1,300 @@
+ ADS Zone Search
+
+ Timestamp is 568681b3 (Fri Jan 01 22:40:03 2016)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 000000f0H .idata$5                CODE
+ 0001:000000f0 000000f0H .rdata                  CODE
+ 0001:000001e0 0000141cH .text                   CODE
+ 0001:00001600 00000004H .text$0                 CODE
+ 0001:00001610 00001420H .text$1                 CODE
+ 0001:00002a30 00000004H .text$2                 CODE
+ 0001:00002a34 00000014H .idata$2                CODE
+ 0001:00002a48 00000014H .idata$3                CODE
+ 0001:00002a5c 000000f0H .idata$4                CODE
+ 0001:00002b4c 00000380H .idata$6                CODE
+ 0001:00002ecc 00000000H .edata                  CODE
+ 0002:00000000 00000004H .data                   DATA
+ 0002:00000008 00000a38H .bss                    DATA
+ 0003:00000000 00000148H .rsrc$01                DATA
+ 0003:00000150 00000798H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00000000       __imp___CIcos              00401000     ADS Zone Search.OBJ
+ 0001:00000004       __imp___adj_fptan          00401004     ADS Zone Search.OBJ
+ 0001:00000008       __imp____vbaStrI4          00401008     ADS Zone Search.OBJ
+ 0001:00000008       __imp_@__vbaStrI4          00401008     ADS Zone Search.OBJ
+ 0001:0000000c       __imp____vbaFreeVar        0040100c     ADS Zone Search.OBJ
+ 0001:0000000c       __imp_@__vbaFreeVar        0040100c     ADS Zone Search.OBJ
+ 0001:00000010       __imp____vbaFreeVarList    00401010     ADS Zone Search.OBJ
+ 0001:00000010       __imp_@__vbaFreeVarList    00401010     ADS Zone Search.OBJ
+ 0001:00000014       __imp___adj_fdiv_m64       00401014     ADS Zone Search.OBJ
+ 0001:00000018       __imp_@__vbaFreeObjList    00401018     ADS Zone Search.OBJ
+ 0001:00000018       __imp____vbaFreeObjList    00401018     ADS Zone Search.OBJ
+ 0001:0000001c       __imp___adj_fprem1         0040101c     ADS Zone Search.OBJ
+ 0001:00000020       __imp____vbaStrCat         00401020     ADS Zone Search.OBJ
+ 0001:00000020       __imp_@__vbaStrCat         00401020     ADS Zone Search.OBJ
+ 0001:00000024       __imp_@__vbaSetSystemError 00401024     ADS Zone Search.OBJ
+ 0001:00000024       __imp____vbaSetSystemError 00401024     ADS Zone Search.OBJ
+ 0001:00000028       __imp_@__vbaHresultCheckObj 00401028     ADS Zone Search.OBJ
+ 0001:00000028       __imp____vbaHresultCheckObj 00401028     ADS Zone Search.OBJ
+ 0001:0000002c       __imp____vbaLenBstrB       0040102c     ADS Zone Search.OBJ
+ 0001:0000002c       __imp_@__vbaLenBstrB       0040102c     ADS Zone Search.OBJ
+ 0001:00000030       __imp___adj_fdiv_m32       00401030     ADS Zone Search.OBJ
+ 0001:00000034       __imp_@__vbaObjSet         00401034     ADS Zone Search.OBJ
+ 0001:00000034       __imp____vbaObjSet         00401034     ADS Zone Search.OBJ
+ 0001:00000038       __imp_@__vba@065F60D4      00401038     ADS Zone Search.OBJ
+ 0001:00000038       __imp____vba@065F60D4      00401038     ADS Zone Search.OBJ
+ 0001:0000003c       __imp____vbaOnError        0040103c     ADS Zone Search.OBJ
+ 0001:0000003c       __imp_@__vbaOnError        0040103c     ADS Zone Search.OBJ
+ 0001:00000040       __imp___adj_fdiv_m16i      00401040     ADS Zone Search.OBJ
+ 0001:00000044       __imp___adj_fdivr_m16i     00401044     ADS Zone Search.OBJ
+ 0001:00000048       __imp___CIsin              00401048     ADS Zone Search.OBJ
+ 0001:0000004c       __imp____vbaErase          0040104c     ADS Zone Search.OBJ
+ 0001:0000004c       __imp_@__vbaErase          0040104c     ADS Zone Search.OBJ
+ 0001:00000050       __imp____vbaChkstk         00401050     ADS Zone Search.OBJ
+ 0001:00000058       __imp_@__vbaGenerateBoundsError 00401058     ADS Zone Search.OBJ
+ 0001:00000058       __imp____vbaGenerateBoundsError 00401058     ADS Zone Search.OBJ
+ 0001:00000060       __imp____vbaRedimPreserve  00401060     ADS Zone Search.OBJ
+ 0001:00000060       __imp_@__vbaRedimPreserve  00401060     ADS Zone Search.OBJ
+ 0001:00000064       __imp___adj_fpatan         00401064     ADS Zone Search.OBJ
+ 0001:0000006c       __imp___CIsqrt             0040106c     ADS Zone Search.OBJ
+ 0001:00000074       __imp____vbaExceptHandler  00401074     ADS Zone Search.OBJ
+ 0001:00000078       __imp_@__vbaStrToUnicode   00401078     ADS Zone Search.OBJ
+ 0001:00000078       __imp____vbaStrToUnicode   00401078     ADS Zone Search.OBJ
+ 0001:0000007c       __imp_@__vba@065F5EE4      0040107c     ADS Zone Search.OBJ
+ 0001:0000007c       __imp____vba@065F5EE4      0040107c     ADS Zone Search.OBJ
+ 0001:00000080       __imp___adj_fprem          00401080     ADS Zone Search.OBJ
+ 0001:00000084       __imp___adj_fdivr_m64      00401084     ADS Zone Search.OBJ
+ 0001:00000088       __imp____vbaFPException    00401088     ADS Zone Search.OBJ
+ 0001:0000008c       __imp____vbaStrVarVal      0040108c     ADS Zone Search.OBJ
+ 0001:0000008c       __imp_@__vbaStrVarVal      0040108c     ADS Zone Search.OBJ
+ 0001:00000090       __imp_@__vba@065F5C14      00401090     ADS Zone Search.OBJ
+ 0001:00000090       __imp____vba@065F5C14      00401090     ADS Zone Search.OBJ
+ 0001:00000094       __imp___CIlog              00401094     ADS Zone Search.OBJ
+ 0001:00000098       __imp____vbaErrorOverflow  00401098     ADS Zone Search.OBJ
+ 0001:00000098       __imp_@__vbaErrorOverflow  00401098     ADS Zone Search.OBJ
+ 0001:0000009c       __imp___adj_fdiv_m32i      0040109c     ADS Zone Search.OBJ
+ 0001:000000a0       __imp___adj_fdivr_m32i     004010a0     ADS Zone Search.OBJ
+ 0001:000000a4       __imp_@__vbaStrCopy        004010a4     ADS Zone Search.OBJ
+ 0001:000000a4       __imp____vbaStrCopy        004010a4     ADS Zone Search.OBJ
+ 0001:000000a8       __imp____vbaFreeStrList    004010a8     ADS Zone Search.OBJ
+ 0001:000000a8       __imp_@__vbaFreeStrList    004010a8     ADS Zone Search.OBJ
+ 0001:000000ac       __imp___adj_fdivr_m32      004010ac     ADS Zone Search.OBJ
+ 0001:000000b0       __imp___adj_fdiv_r         004010b0     ADS Zone Search.OBJ
+ 0001:000000b8       __imp____vbaVarTstNe       004010b8     ADS Zone Search.OBJ
+ 0001:000000b8       __imp_@__vbaVarTstNe       004010b8     ADS Zone Search.OBJ
+ 0001:000000bc       __imp____vbaStrToAnsi      004010bc     ADS Zone Search.OBJ
+ 0001:000000bc       __imp_@__vbaStrToAnsi      004010bc     ADS Zone Search.OBJ
+ 0001:000000c0       __imp____vbaVarDup         004010c0     ADS Zone Search.OBJ
+ 0001:000000c0       __imp_@__vbaVarDup         004010c0     ADS Zone Search.OBJ
+ 0001:000000c4       __imp_@__vbaStrComp        004010c4     ADS Zone Search.OBJ
+ 0001:000000c4       __imp____vbaStrComp        004010c4     ADS Zone Search.OBJ
+ 0001:000000c8       __imp____vba@065F5E04      004010c8     ADS Zone Search.OBJ
+ 0001:000000c8       __imp_@__vba@065F5E04      004010c8     ADS Zone Search.OBJ
+ 0001:000000cc       __imp___CIatan             004010cc     ADS Zone Search.OBJ
+ 0001:000000d0       __imp_@__vbaStrMove        004010d0     ADS Zone Search.OBJ
+ 0001:000000d0       __imp____vbaStrMove        004010d0     ADS Zone Search.OBJ
+ 0001:000000d4       __imp_@__vba@065F5B90      004010d4     ADS Zone Search.OBJ
+ 0001:000000d4       __imp____vba@065F5B90      004010d4     ADS Zone Search.OBJ
+ 0001:000000d8       __imp___allmul             004010d8     ADS Zone Search.OBJ
+ 0001:000000dc       __imp___CItan              004010dc     ADS Zone Search.OBJ
+ 0001:000000e0       __imp___CIexp              004010e0     ADS Zone Search.OBJ
+ 0001:000000e4       __imp_@__vbaFreeObj        004010e4     ADS Zone Search.OBJ
+ 0001:000000e4       __imp____vbaFreeObj        004010e4     ADS Zone Search.OBJ
+ 0001:000000e8       __imp_@__vbaFreeStr        004010e8     ADS Zone Search.OBJ
+ 0001:000000e8       __imp____vbaFreeStr        004010e8     ADS Zone Search.OBJ
+ 0001:000001e0       ___vbaChkstk               004011e0     ADS Zone Search.OBJ
+ 0001:000001e0       VB@TEXT                    004011e0     ADS Zone Search.OBJ
+ 0001:000001e6       ___vbaExceptHandler        004011e6     ADS Zone Search.OBJ
+ 0001:000001ec       ___vbaFPException          004011ec     ADS Zone Search.OBJ
+ 0001:000001f2       __adj_fdiv_m16i            004011f2     ADS Zone Search.OBJ
+ 0001:000001f8       __adj_fdiv_m32             004011f8     ADS Zone Search.OBJ
+ 0001:000001fe       __adj_fdiv_m32i            004011fe     ADS Zone Search.OBJ
+ 0001:00000204       __adj_fdiv_m64             00401204     ADS Zone Search.OBJ
+ 0001:0000020a       __adj_fdiv_r               0040120a     ADS Zone Search.OBJ
+ 0001:00000210       __adj_fdivr_m16i           00401210     ADS Zone Search.OBJ
+ 0001:00000216       __adj_fdivr_m32            00401216     ADS Zone Search.OBJ
+ 0001:0000021c       __adj_fdivr_m32i           0040121c     ADS Zone Search.OBJ
+ 0001:00000222       __adj_fdivr_m64            00401222     ADS Zone Search.OBJ
+ 0001:00000228       __adj_fpatan               00401228     ADS Zone Search.OBJ
+ 0001:0000022e       __adj_fprem                0040122e     ADS Zone Search.OBJ
+ 0001:00000234       __adj_fprem1               00401234     ADS Zone Search.OBJ
+ 0001:0000023a       __adj_fptan                0040123a     ADS Zone Search.OBJ
+ 0001:00000240       __CIatan                   00401240     ADS Zone Search.OBJ
+ 0001:00000246       __CIcos                    00401246     ADS Zone Search.OBJ
+ 0001:0000024c       __CIexp                    0040124c     ADS Zone Search.OBJ
+ 0001:00000252       __CIlog                    00401252     ADS Zone Search.OBJ
+ 0001:00000258       __CIsin                    00401258     ADS Zone Search.OBJ
+ 0001:0000025e       __CIsqrt                   0040125e     ADS Zone Search.OBJ
+ 0001:00000264       __CItan                    00401264     ADS Zone Search.OBJ
+ 0001:0000026a       __allmul                   0040126a     ADS Zone Search.OBJ
+ 0001:00000276       ___vbaFreeObjList          00401276     ADS Zone Search.OBJ
+ 0001:00000276       @__vbaFreeObjList          00401276     ADS Zone Search.OBJ
+ 0001:0000027c       @__vbaRedimPreserve        0040127c     ADS Zone Search.OBJ
+ 0001:0000027c       ___vbaRedimPreserve        0040127c     ADS Zone Search.OBJ
+ 0001:00000282       @__vbaErase                00401282     ADS Zone Search.OBJ
+ 0001:00000282       ___vbaErase                00401282     ADS Zone Search.OBJ
+ 0001:00000288       @__vba@065F5B90            00401288     ADS Zone Search.OBJ
+ 0001:00000288       ___vba@065F5B90            00401288     ADS Zone Search.OBJ
+ 0001:0000028e       ___vbaVarTstNe             0040128e     ADS Zone Search.OBJ
+ 0001:0000028e       @__vbaVarTstNe             0040128e     ADS Zone Search.OBJ
+ 0001:00000294       ___vba@065F5C14            00401294     ADS Zone Search.OBJ
+ 0001:00000294       @__vba@065F5C14            00401294     ADS Zone Search.OBJ
+ 0001:0000029a       ___vbaLenBstrB             0040129a     ADS Zone Search.OBJ
+ 0001:0000029a       @__vbaLenBstrB             0040129a     ADS Zone Search.OBJ
+ 0001:000002a0       @__vbaOnError              004012a0     ADS Zone Search.OBJ
+ 0001:000002a0       ___vbaOnError              004012a0     ADS Zone Search.OBJ
+ 0001:000002a6       ___vbaStrComp              004012a6     ADS Zone Search.OBJ
+ 0001:000002a6       @__vbaStrComp              004012a6     ADS Zone Search.OBJ
+ 0001:000002ac       @__vbaStrToUnicode         004012ac     ADS Zone Search.OBJ
+ 0001:000002ac       ___vbaStrToUnicode         004012ac     ADS Zone Search.OBJ
+ 0001:000002b2       @__vbaStrVarVal            004012b2     ADS Zone Search.OBJ
+ 0001:000002b2       ___vbaStrVarVal            004012b2     ADS Zone Search.OBJ
+ 0001:000002b8       ___vba@065F5E04            004012b8     ADS Zone Search.OBJ
+ 0001:000002b8       @__vba@065F5E04            004012b8     ADS Zone Search.OBJ
+ 0001:000002be       @__vbaFreeVar              004012be     ADS Zone Search.OBJ
+ 0001:000002be       ___vbaFreeVar              004012be     ADS Zone Search.OBJ
+ 0001:000002c4       ___vba@065F5EE4            004012c4     ADS Zone Search.OBJ
+ 0001:000002c4       @__vba@065F5EE4            004012c4     ADS Zone Search.OBJ
+ 0001:000002ca       @__vbaErrorOverflow        004012ca     ADS Zone Search.OBJ
+ 0001:000002ca       ___vbaErrorOverflow        004012ca     ADS Zone Search.OBJ
+ 0001:000002d0       @__vbaStrI4                004012d0     ADS Zone Search.OBJ
+ 0001:000002d0       ___vbaStrI4                004012d0     ADS Zone Search.OBJ
+ 0001:000002d6       ___vbaFreeStr              004012d6     ADS Zone Search.OBJ
+ 0001:000002d6       @__vbaFreeStr              004012d6     ADS Zone Search.OBJ
+ 0001:000002dc       ___vbaFreeVarList          004012dc     ADS Zone Search.OBJ
+ 0001:000002dc       @__vbaFreeVarList          004012dc     ADS Zone Search.OBJ
+ 0001:000002e2       ___vbaVarDup               004012e2     ADS Zone Search.OBJ
+ 0001:000002e2       @__vbaVarDup               004012e2     ADS Zone Search.OBJ
+ 0001:000002e8       @__vba@065F60D4            004012e8     ADS Zone Search.OBJ
+ 0001:000002e8       ___vba@065F60D4            004012e8     ADS Zone Search.OBJ
+ 0001:000002ee       @__vbaFreeStrList          004012ee     ADS Zone Search.OBJ
+ 0001:000002ee       ___vbaFreeStrList          004012ee     ADS Zone Search.OBJ
+ 0001:000002f4       @__vbaSetSystemError       004012f4     ADS Zone Search.OBJ
+ 0001:000002f4       ___vbaSetSystemError       004012f4     ADS Zone Search.OBJ
+ 0001:000002fa       @__vbaStrCat               004012fa     ADS Zone Search.OBJ
+ 0001:000002fa       ___vbaStrCat               004012fa     ADS Zone Search.OBJ
+ 0001:00000300       ___vbaStrMove              00401300     ADS Zone Search.OBJ
+ 0001:00000300       @__vbaStrMove              00401300     ADS Zone Search.OBJ
+ 0001:00000306       ___vbaStrToAnsi            00401306     ADS Zone Search.OBJ
+ 0001:00000306       @__vbaStrToAnsi            00401306     ADS Zone Search.OBJ
+ 0001:0000030c       @__vbaFreeObj              0040130c     ADS Zone Search.OBJ
+ 0001:0000030c       ___vbaFreeObj              0040130c     ADS Zone Search.OBJ
+ 0001:00000312       @__vbaGenerateBoundsError  00401312     ADS Zone Search.OBJ
+ 0001:00000312       ___vbaGenerateBoundsError  00401312     ADS Zone Search.OBJ
+ 0001:00000318       ___vbaHresultCheckObj      00401318     ADS Zone Search.OBJ
+ 0001:00000318       @__vbaHresultCheckObj      00401318     ADS Zone Search.OBJ
+ 0001:0000031e       @__vbaObjSet               0040131e     ADS Zone Search.OBJ
+ 0001:0000031e       ___vbaObjSet               0040131e     ADS Zone Search.OBJ
+ 0001:00000324       @__vbaStrCopy              00401324     ADS Zone Search.OBJ
+ 0001:00000324       ___vbaStrCopy              00401324     ADS Zone Search.OBJ
+ 0001:00000344       ___vbaS                    00401344     ADS Zone Search.OBJ
+ 0001:000008b8       ___vba@00769C6C            004018b8     ADS Zone Search.OBJ
+ 0001:00000db8       ___vba@0076C564            00401db8     ADS Zone Search.OBJ
+ 0001:00000e68       ___vba@0076C5BC            00401e68     ADS Zone Search.OBJ
+ 0001:00000e70       ___vba@0076C5C8            00401e70     ADS Zone Search.OBJ
+ 0001:00000e7c       ___vba@0076C5D8            00401e7c     ADS Zone Search.OBJ
+ 0001:00000e8c       ___vba@0076C5EC            00401e8c     ADS Zone Search.OBJ
+ 0001:00000e9c       ___vba@0076C600            00401e9c     ADS Zone Search.OBJ
+ 0001:00000eac       ___vba@0076C614            00401eac     ADS Zone Search.OBJ
+ 0001:00000ebc       ___vba@0076C628            00401ebc     ADS Zone Search.OBJ
+ 0001:00000ecc       ___vba@0076C63C            00401ecc     ADS Zone Search.OBJ
+ 0001:00000ed8       ___vba@0076C64C            00401ed8     ADS Zone Search.OBJ
+ 0001:00000ee8       ___vba@0076C660            00401ee8     ADS Zone Search.OBJ
+ 0001:00000f24       ___vba@0076C6A0            00401f24     ADS Zone Search.OBJ
+ 0001:00000f28       ___vba@0076C6A8            00401f28     ADS Zone Search.OBJ
+ 0001:00000f50       ___vba@0076C6D4            00401f50     ADS Zone Search.OBJ
+ 0001:00000f5c       ___vba@0076C6E4            00401f5c     ADS Zone Search.OBJ
+ 0001:00000f6c       ___vba@0076C6F8            00401f6c     ADS Zone Search.OBJ
+ 0001:00000f74       ___vba@0076C704            00401f74     ADS Zone Search.OBJ
+ 0001:00000f80       ___vba@0076C714            00401f80     ADS Zone Search.OBJ
+ 0001:00000f90       ___vba@0076C728            00401f90     ADS Zone Search.OBJ
+ 0001:00000f98       ___vba@0076C734            00401f98     ADS Zone Search.OBJ
+ 0001:00000fa8       ___vba@0076C748            00401fa8     ADS Zone Search.OBJ
+ 0001:00000fb0       ___vba@0076C78C            00401fb0     ADS Zone Search.OBJ
+ 0001:00000fc0       ___vba@0076C7A0            00401fc0     ADS Zone Search.OBJ
+ 0001:00000fcc       ___vba@0076C7AC            00401fcc     ADS Zone Search.OBJ
+ 0001:00000fe0       ___vba@0076C7C4            00401fe0     ADS Zone Search.OBJ
+ 0001:00001014       ___vba@0076C7E8            00402014     ADS Zone Search.OBJ
+ 0001:00001034       ___vba@0076C820            00402034     ADS Zone Search.OBJ
+ 0001:00001058       ___vba@0076C834            00402058     ADS Zone Search.OBJ
+ 0001:00001078       ___vba@0076C86C            00402078     ADS Zone Search.OBJ
+ 0001:000010a4       ___vba@0076C888            004020a4     ADS Zone Search.OBJ
+ 0001:000010c4       ___vba@0076C8C0            004020c4     ADS Zone Search.OBJ
+ 0001:000010f4       ___vba@0076C8E0            004020f4     ADS Zone Search.OBJ
+ 0001:00001114       ___vba@0076C918            00402114     ADS Zone Search.OBJ
+ 0001:00001144       ___vba@0076C938            00402144     ADS Zone Search.OBJ
+ 0001:00001160       ___vba@0076C970            00402160     ADS Zone Search.OBJ
+ 0001:00001178       ___vba@065F560C            00402178     ADS Zone Search.OBJ
+ 0001:0000118c       ___vba@065F5620            0040218c     ADS Zone Search.OBJ
+ 0001:000011b4       ___vba@065F564C            004021b4     ADS Zone Search.OBJ
+ 0001:000011d4       ___vba@065F5670            004021d4     ADS Zone Search.OBJ
+ 0001:000011e8       ___vba@065F5688            004021e8     ADS Zone Search.OBJ
+ 0001:000011f0       ___vba@065F5694            004021f0     ADS Zone Search.OBJ
+ 0001:00001220       ___vba@065F56C8            00402220     ADS Zone Search.OBJ
+ 0001:00001228       ___vba@065F56D4            00402228     ADS Zone Search.OBJ
+ 0001:00001234       ___vba@065F56E4            00402234     ADS Zone Search.OBJ
+ 0001:0000125c       ___vba@065F5710            0040225c     ADS Zone Search.OBJ
+ 0001:00001288       ___vba@065F5740            00402288     ADS Zone Search.OBJ
+ 0001:000012b4       ___vba@065F5774            004022b4     ADS Zone Search.OBJ
+ 0001:000012c8       ___vba@065F5788            004022c8     ADS Zone Search.OBJ
+ 0001:000012d8       ___vba@065F579C            004022d8     ADS Zone Search.OBJ
+ 0001:000012f8       ___vba@065F57C0            004022f8     ADS Zone Search.OBJ
+ 0001:00001334       ___vba@065F5800            00402334     ADS Zone Search.OBJ
+ 0001:00001338       ___vba@065F5A5C            00402338     ADS Zone Search.OBJ
+ 0001:00001348       ___vba@065F5A70            00402348     ADS Zone Search.OBJ
+ 0001:00001358       ___vba@065F5A84            00402358     ADS Zone Search.OBJ
+ 0001:00001368       ___vba@065F5A98            00402368     ADS Zone Search.OBJ
+ 0001:00001374       ___vba@065F5AA8            00402374     ADS Zone Search.OBJ
+ 0001:00001388       ___vba@065F5AF8            00402388     ADS Zone Search.OBJ
+ 0001:0000139c       ___vba@065F5B48            0040239c     ADS Zone Search.OBJ
+ 0001:000013a8       ___vba@065F5BC8            004023a8     ADS Zone Search.OBJ
+ 0001:000013b8       ___vba@065F5C84            004023b8     ADS Zone Search.OBJ
+ 0001:000013c8       ___vba@065F5CD0            004023c8     ADS Zone Search.OBJ
+ 0001:000013d8       ___vba@065F5D1C            004023d8     ADS Zone Search.OBJ
+ 0001:000013e8       ___vba@065F5D68            004023e8     ADS Zone Search.OBJ
+ 0001:000013fc       ___vba@065F5DB8            004023fc     ADS Zone Search.OBJ
+ 0001:0000140c       ___vba@065F5E3C            0040240c     ADS Zone Search.OBJ
+ 0001:0000141c       ___vba@065F5F1C            0040241c     ADS Zone Search.OBJ
+ 0001:00001430       ___vba@065F5F6C            00402430     ADS Zone Search.OBJ
+ 0001:0000143c       ___vba@065F5FB4            0040243c     ADS Zone Search.OBJ
+ 0001:0000144c       ___vba@065F6000            0040244c     ADS Zone Search.OBJ
+ 0001:00001460       ___vba@065F6050            00402460     ADS Zone Search.OBJ
+ 0001:0000146c       ___vba@065F610C            0040246c     ADS Zone Search.OBJ
+ 0001:00001480       ___vba@065F615C            00402480     ADS Zone Search.OBJ
+ 0001:00001494       ___vba@065F61AC            00402494     ADS Zone Search.OBJ
+ 0001:000014a0       ___vba@065F61F4            004024a0     ADS Zone Search.OBJ
+ 0001:000014b0       ___vba@065F6240            004024b0     ADS Zone Search.OBJ
+ 0001:000014c0       ___vba@065F628C            004024c0     ADS Zone Search.OBJ
+ 0001:000014d0       ___vba@065F655C            004024d0     ADS Zone Search.OBJ
+ 0001:000014ec       ___vba@065F65B4            004024ec     ADS Zone Search.OBJ
+ 0001:00001504       ___vba@065F6608            00402504     ADS Zone Search.OBJ
+ 0001:00001510       ___vba@065F6650            00402510     ADS Zone Search.OBJ
+ 0001:00001558       ___vba@00768B2C            00402558     ADS Zone Search.OBJ
+ 0001:00001598       ___vba@0076B424            00402598     ADS Zone Search.OBJ
+ 0001:000015c0       ___vba@0076B450            004025c0     ADS Zone Search.OBJ
+ 0001:000015cc       ___vba@0076B460            004025cc     ADS Zone Search.OBJ
+ 0001:000015d8       ___vba@0076B470            004025d8     ADS Zone Search.OBJ
+ 0001:000015e4       ___vba@0076B480            004025e4     ADS Zone Search.OBJ
+ 0001:000015f0       ___vba@0076B490            004025f0     ADS Zone Search.OBJ
+ 0001:00001600       VB@BTXT                    00402600     ADS Zone Search.OBJ
+ 0001:00001610       ?Command2_Click@Form1@@AAGXXZ 00402610 f   Form1.OBJ
+ 0001:00001a70       ?Command3_Click@Form1@@AAGXXZ 00402a70 f   Form1.OBJ
+ 0001:00001e80       ?Form_Load@Form1@@AAGXXZ   00402e80 f   Form1.OBJ
+ 0001:00001f40       ?CheckNTFS@Form1@@AAGXXZ   00402f40 f   Form1.OBJ
+ 0001:000020a0       ?Command1_Click@Form1@@AAGXXZ 004030a0 f   Form1.OBJ
+ 0001:000028f0       ?Text1_OLEDragDrop@Form1@@AAGXXZ 004038f0 f   Form1.OBJ
+ 0001:00002a30       VB@ETXT                    00403a30     ADS Zone Search.OBJ
+ 0002:00000000       __adjust_fdiv              00404000     VBAEXE6:natsupp.obj
+ 0002:00000008       VB@BSS                     00404008     ADS Zone Search.OBJ
+ 0002:00000010       ___vba@0076A300            00404010     ADS Zone Search.OBJ
+ 0002:00000330       ___vba@065BB064            00404330     ADS Zone Search.OBJ
+
+ entry point at        0001:00000344
+
+ Static symbols
+
